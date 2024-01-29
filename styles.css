@@ -1,0 +1,36 @@
+html,body {
+    padding:0;
+    margin:0;
+    border:0;
+}
+
+input, label {
+    display:block;
+}
+
+#bookMaker {
+    height:100vh;
+    width:20vw;
+    background-color: blanchedalmond;
+    display:flex;
+    flex-direction: column;
+}
+
+.formField {
+    float:left;
+    margin-right: 20px;
+}
+
+#bookshelf {
+    width:80vw;
+    height:100vh;
+    border:1px solid black;
+    display:grid;
+    background-color: burlywood;
+}
+
+.book {
+    height:200px;
+    width:100px;
+    background-color: maroon;
+}
