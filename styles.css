@@ -44,3 +44,8 @@ input, label {
     box-shadow: 3px 3px 10px black;
     background-color: maroon;
 }
+
+.book > button {
+    height:50px;
+    width:100px;
+}
