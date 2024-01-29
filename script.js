@@ -23,7 +23,7 @@ function updateBookshelf () {
     myLibrary.forEach(element => {
         const div = document.createElement('div');
         div.classList.add('book');
-        div.textContent = element.title + "\n by " + element.author;
+        div.textContent = element.title + "\r\n \r\n by " + element.author;
         bookShelf.appendChild(div);
     });
 }
