@@ -46,6 +46,17 @@ input, label {
 }
 
 .book > button {
-    height:50px;
-    width:100px;
+    height:25px;
+    width:50px;
+    position:relative;
+}
+
+#read {
+    right:75px;
+    top:75px;
+}
+
+#delete {
+    left:75px;
+    top:75px;
 }

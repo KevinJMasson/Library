@@ -3,9 +3,5 @@ This project seeks to create a web application that allows the user to create a 
 
 <h2>To do</h2>
 <ul>
-    <li>Implement delete button</li>
-    <li>Implement read button</li>
-    <li>Place book text more aesthetically</li>
-    <li>Implement grid container</li>
     <li>All around visual improvements</li>
 </ul>
